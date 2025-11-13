@@ -1,7 +1,7 @@
-# 🩺 EasyAppointment – Online Doctor Appointment System
+# 🩺 Online Doctor Appointment System
 
 ## 📌 Overview
-**EasyAppointment** is a web-based application built using the **MERN Stack** that allows patients to conveniently book doctor appointments online.  
+Appointy is a web-based application built using the **MERN Stack** that allows patients to conveniently book doctor appointments online.  
 It provides a seamless platform where **patients can register, browse doctors by specialty, book appointments, and manage their consultations**, while **admins and doctors** can manage profiles, availability, and appointments.
 
 ---
